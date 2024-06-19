@@ -1,0 +1,3 @@
+[submodule "Pi-Pico-SDK-Adafruit-BusIO"]
+	path = Pi-Pico-SDK-Adafruit-BusIO
+	url = https://github.com/Reghardt/Pi-Pico-SDK-Adafruit-BusIO.git
