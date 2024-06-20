@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.5)
 
 project(Adafruit_GFX)
 
+add_subdirectory(Pi-Pico-SDK-Adafruit-BusIO)
 add_library(Adafruit_GFX STATIC
     Adafruit_GrayOLED.cpp
     Adafruit_GFX.cpp
